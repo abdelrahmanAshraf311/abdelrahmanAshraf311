@@ -1,6 +1,8 @@
 
 <!-- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> -->
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<br>
 <h3 align="center">
   Welcome to Abdelrahman Ashraf's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -29,7 +31,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdelrahman-ashraf-09bb07233" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20-ashraf-09bb07233?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-ashraf-09bb07233" target="_blank"><img src="https://img.shields.io/badge/Abdelrahman style=for-the-badge&logo=Linkedin&logoColor=white"/>Linkedin</a>
 
 
 ### 🛠 &nbsp;Tech Stack
