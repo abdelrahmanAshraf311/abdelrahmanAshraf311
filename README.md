@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<!-- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> -->
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <h3 align="center">
   Welcome to Abdelrahman Ashraf's profile!
@@ -29,7 +29,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdelrahman-ashraf-09bb07233" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20abdelrahman-ashraf-09bb07233?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-ashraf-09bb07233" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20-ashraf-09bb07233?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -42,9 +42,3 @@
 
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdul-ghaffar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
-</a>
