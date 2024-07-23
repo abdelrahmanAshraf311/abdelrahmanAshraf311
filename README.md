@@ -32,6 +32,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/abdelrahman-ashraf-09bb07233" target="_blank">Linkedin</a>
+<a href= "https://www.credly.com/users/abdelrahman-ashraf.6d7cd10b" target="_blank"> Credly </a>
 
 
 ### 🛠 &nbsp;Tech Stack
