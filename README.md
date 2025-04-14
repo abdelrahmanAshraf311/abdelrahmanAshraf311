@@ -20,7 +20,7 @@
 - 💬 **Ask me about**:
   - My experience with **Networking, Cloud Computing, Python, HTML, CSS, and C**
     
-- 🌟 **Current Project**: Pursuing a diploma in Devops with ITI.
+- 🌟 **Current Project**: Studying the Devops Track on KodeKloud Platdorm.
 - 🎯 **Career Goals**:
   - **Short-term**: Complete the Devops diploma from ITI.
   - **Long-term**: Explore advanced fields like **DevSecOps & Cloud Security** and eventually build my own business.
