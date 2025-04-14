@@ -18,14 +18,14 @@
 - 🏢 **Benha University - Faculty of Computer Science**
 - 👨‍💻 **Information Security & Digital Forensics Student**, currently studying Devops through ITI & KodeKloud.
 - 💬 **Ask me about**:
-  - My experience with **Networking, Cloud Computing, Python, HTML, CSS, and C**
+  - My experience with **Networking, Cloud Computing, Python, Shell Scripting, Docker and Kubernetes**
     
 - 🌟 **Current Project**: Studying the Devops Track on KodeKloud Platdorm.
 - 🎯 **Career Goals**:
-  - **Short-term**: Complete the Devops diploma from ITI.
+  - **Short-term**: Complete the Devops Track on KodeKloud and create a real-time project to gain hands-on experience.
   - **Long-term**: Explore advanced fields like **DevSecOps & Cloud Security** and eventually build my own business.
 - 📚 **Hobby**: I love reading books, Football & Swimming.
-- 🌟 **Unique Experience**: I was Huawei ICT-Academy Ambassador in the university and had been selected as one of the top 9 students in Egypt who combine soft and technical skills.
+- 🌟 **Unique Experience**: I was Huawei ICT-Academy Ambassador in the university and had been selected as one of the top 9 students in Egypt who combine soft and technical skills, ranked as Gold Medalist in the Huawei ICT competition - Network Track which include (DataCom - Security and WLAN), Participated in (Huawei Seeds For The Future) which is a global program combines between the technical and soft skills competing with tech students all over the world. Iam also an ambassador represents the Technology Innovation & Entrepreneurship Center (ITIDA/TIEC), helping students to know more about the Entrepreneurship environment that based on technology.
 ---
 
 
@@ -43,6 +43,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-05122A?style=flat&logo=gnu-bash&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-05122A?style=flat)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=white)
+
+
 
 
 
