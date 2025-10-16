@@ -10,22 +10,23 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Devops%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Devops%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 
 
 - 🏢 **Benha University - Faculty of Computer Science**
-- 👨‍💻 **Information Security & Digital Forensics Student**, currently studying Devops through ITI & KodeKloud.
+- 👨‍💻 **Information Security & Digital Forensics Student**, Studying Devops through KodeKloud.
+- 🏢 **NTI - DevOps Track**, gradauted 
 - 💬 **Ask me about**:
-  - My experience with **Networking, Cloud Computing, Python, Shell Scripting, Docker and Kubernetes**
+  - My experience with **Networking, Cloud Computing, Python, Shell Scripting, Docker and Kubernetes, Terraform and CI/CD**
     
-- 🌟 **Current Project**: Studying the Devops Track on KodeKloud Platdorm.
+- 🌟 **Current Project**: Studying the Devops Track on KodeKloud Platform and open source materials.
 - 🎯 **Career Goals**:
-  - **Short-term**: Complete the Devops Track on KodeKloud and create a real-time project to gain hands-on experience.
+  - **Short-term**: Complete the DevOps Track on KodeKloud and create a real-time project to gain hands-on experience.
   - **Long-term**: Explore advanced fields like **DevSecOps & Cloud Security** and eventually build my own business.
 - 📚 **Hobby**: I love reading books, Football & Swimming.
-- 🌟 **Unique Experience**: I was Huawei ICT-Academy Ambassador in the university and had been selected as one of the top 9 students in Egypt who combine soft and technical skills, ranked as Gold Medalist in the Huawei ICT competition - Network Track which include (DataCom - Security and WLAN), Participated in (Huawei Seeds For The Future) which is a global program combines between the technical and soft skills competing with tech students all over the world. Iam also an ambassador represents the Technology Innovation & Entrepreneurship Center (ITIDA/TIEC), helping students to know more about the Entrepreneurship environment that based on technology.
+- 🌟 **Unique Experience**: I was Huawei ICT-Academy Ambassador in the university and had been selected as one of the top 9 students in Egypt who combine soft and technical skills, ranked as Gold Medalist in the Huawei ICT competition - Network Track which include (DataCom - Security and WLAN), Participated in (Huawei Seeds For The Future) which is a global program combines between the technical and soft skills competing with tech students all over the world. I am also an ambassador representing the Technology Innovation & Entrepreneurship Center (ITIDA/TIEC), helping students to know more about the Entrepreneurship environment that is based on technology.
 ---
 
 
